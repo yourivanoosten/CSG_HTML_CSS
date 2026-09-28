@@ -1,6 +1,11 @@
 body {
-    color: darkblue;
-    font-size: 4.5rem;
+    color:rgb(0, 0, 0);
+    background-color: lightskyblue;
+    font-size: 50px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular',Geneva, Verdana, sans-serif;
     font-variant: small-caps;
+}
+
+head{
+    color: lightskyblue;
 }

@@ -11,7 +11,7 @@ h1,h2,h3 {
 h2 {
   padding: 10px;
   background-color: #555;
-  color: whitesmoke;
+  color: rgb(0, 0, 0);
   font-size: 1.2em;
   text-transform: uppercase;
   text-align: center;
