@@ -1,17 +1,54 @@
-html, body {
-    padding: 0;
-    margin: 0;
-}
-
 body {
-    background: #ff0000;
-    color: #000000;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    size: 14px;
-    padding-left: 10%;
+    background-color: #fff7e8;
+    color: #4a3520;
+    font-family: Georgia, 'Times New Roman', serif;
+    width: 80%;
+    max-width: 800px;
+    margin: 0 auto;
+    padding-bottom: 40px;
 }
 
-#vogel {
-    width: 225px;
-    height: auto;
+h1 {
+    background-color: #d99a3d;
+    color: white;
+    text-align: center;
+    font-size: 42px;
+    padding: 40px 20px;
+    margin-top: 0;
+    border-radius: 0 0 25px 25px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+h2 {
+    color: #a0621c;
+    font-size: 28px;
+    margin-top: 40px;
+    padding-bottom: 8px;
+    border-bottom: 3px solid #d99a3d;
+}
+
+p {
+    background-color: white;
+    font-size: 18px;
+    padding: 15px 20px;
+    border-left: 6px solid #d99a3d;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+}
+
+p:hover {
+    background-color: #fdecc8;
+}
+
+img {
+    width: 240px;
+    height: 170px;
+    margin: 5px;
+    border: 5px solid white;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+img:hover {
+    transform: scale(1.05);
 }
